@@ -108,7 +108,7 @@ If you need any support, please join [our Discord server](https://discord.gg/tXa
 - Run the following commands in your shell/console:
 
 ```bash
-git clone https://github.com/Dhairya5607Y/Poketwo
+git clone https://github.com/Dhairya5607Y/Poketwo..git
 ```
 Note: You can also download the files using other methods.
 
