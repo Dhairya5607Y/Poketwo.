@@ -1,0 +1,14 @@
+{
+  "sleeping": true,
+  "incenseMode": false,
+  "reactAfterCatch": false,
+  "logCatches": true,
+  "lowIVLog": "10.00",
+  "highIVLog": "85.00",
+  "logWebhook": "WEBHOOK TO LOG CATCHES",
+  "ownerID": [ "ID OF MAIN ACCOUNT", "..." ],
+  "prefix": "!",
+  "globalCatch": false,
+  "blacklistedGuilds": [ "716390832034414685", "..." ],
+  "captchaSolvingKey": "CATCHTWO CAPTCHASOLVING API KEY"
+}
